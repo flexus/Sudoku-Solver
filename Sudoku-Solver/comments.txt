@@ -1,0 +1,22 @@
+﻿            //abfangen des sudokus per eingabe
+            /*for (x = 0; x < 9; x++)
+            {
+                y = 0;
+                Console.Write("{0} Zeile:", x + 1);
+                string eingabe = Console.ReadLine();
+                string[] convertEingabe = eingabe.Split(new char[] { ' ' });
+                foreach (string eingabe2 in convertEingabe)
+                {
+                    eingabeSudoku[x, y] = Convert.ToInt32(eingabe2);
+                    y++;
+                }
+            }*/
+
+              if (SudokuMain.moeglichkeitenString[x].Length >= 8)
+                {
+                    TxtSchreiben.writeLine(fPath, SudokuMain.moeglichkeitenString[x] + "\t\t" + SudokuMain.moeglichkeitenString[x].Length);
+                }
+                if (SudokuMain.moeglichkeitenString[x].Length <= 7)
+                {
+                    TxtSchreiben.writeLine(fPath, SudokuMain.moeglichkeitenString[x] + "\t\t\t" + SudokuMain.moeglichkeitenString[x].Length);
+                }

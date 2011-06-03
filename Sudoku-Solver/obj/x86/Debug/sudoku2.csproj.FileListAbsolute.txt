@@ -1,0 +1,24 @@
+C:\Users\Praktikant\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\Praktikant\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\Praktikant\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Praktikant\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\Praktikant\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\w00t\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\w00t\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\w00t\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\w00t\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\w00t\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Proggen\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.exe
+C:\Users\Proggen\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.pdb
+C:\Users\Proggen\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.exe
+C:\Users\Proggen\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.pdb
+C:\Users\Proggen\Documents\Visual Studio 2010\Projects\sudoku2\sudoku2\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.exe
+Z:\Projects\sudoku2\sudoku2\obj\x86\Debug\sudoku2.pdb
+Z:\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.exe
+Z:\Projects\sudoku2\sudoku2\bin\Debug\sudoku2.pdb
+Z:\Projects\sudoku2\sudoku2\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Projects\sudoku2\sudoku2\bin\Debug\sudokus\einfach1.txt
+Z:\Projects\sudoku2\sudoku2\bin\Debug\sudokus\einfach2.txt
+Z:\Projects\sudoku2\sudoku2\bin\Debug\sudokus\alt.txt
+Z:\Projects\sudoku2\sudoku2\bin\Debug\sudokus\medium1.txt

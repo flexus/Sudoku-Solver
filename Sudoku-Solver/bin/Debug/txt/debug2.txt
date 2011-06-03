@@ -1,0 +1,104 @@
+################Analyse Einzig(try:1)################
+Feld: 00:3789
+Feld: 01:789
+Feld: 02:1789
+Feld: 03:24579
+Feld: 04:246789
+Feld: 05:45678
+Feld: 06:124567
+Feld: 07:3457
+Feld: 08:123569
+Feld: 13:579
+Feld: 14:789
+Feld: 15:578
+Feld: 16:157
+Feld: 17:357
+Feld: 18:1359
+Feld: 20:79
+Feld: 22:79
+Feld: 25:467
+Feld: 26:2467
+Feld: 27:47
+Feld: 30:5789
+Feld: 31:789
+Feld: 32:5789
+Feld: 34:4789
+Feld: 36:456
+Feld: 38:56
+Feld: 42:2589
+Feld: 43:49
+Feld: 44:489
+Feld: 45:48
+Feld: 47:45
+Feld: 50:7 GESETZT
+Feld: 58:2 GESETZT
+Feld: 60:45789
+Feld: 61:789
+Feld: 62:56789
+Feld: 63:457
+Feld: 64:467
+Feld: 65:4567
+Feld: 66:157
+Feld: 68:135
+Feld: 72:257
+Feld: 74:27
+Feld: 76:57
+Feld: 80:4578
+Feld: 81:278
+Feld: 82:25678
+Feld: 83:2457
+Feld: 87:578
+Feld: 88:5 GESETZT
+################Ende################
+
+################Analyse Einzig(try:2)################
+Feld: 00:389
+Feld: 01:789
+Feld: 02:1789
+Feld: 03:24579
+Feld: 04:246789
+Feld: 05:45678
+Feld: 06:124567
+Feld: 07:3457
+Feld: 08:1369
+Feld: 13:579
+Feld: 14:789
+Feld: 15:578
+Feld: 16:157
+Feld: 17:357
+Feld: 18:139
+Feld: 20:9 GESETZT
+Feld: 22:79
+Feld: 25:467
+Feld: 26:2467
+Feld: 27:47
+Feld: 30:589
+Feld: 31:89
+Feld: 32:589
+Feld: 34:4789
+Feld: 36:456
+Feld: 38:6 GESETZT
+Feld: 42:2589
+Feld: 43:49
+Feld: 44:489
+Feld: 45:48
+Feld: 47:45
+Feld: 60:4589
+Feld: 61:789
+Feld: 62:56789
+Feld: 63:457
+Feld: 64:467
+Feld: 65:4567
+Feld: 66:17
+Feld: 68:13
+Feld: 72:257
+Feld: 74:27
+Feld: 76:7 GESETZT
+Feld: 80:48
+Feld: 81:278
+Feld: 82:2678
+Feld: 83:247
+Feld: 87:78
+################Ende################
+
+Lösungen 6
